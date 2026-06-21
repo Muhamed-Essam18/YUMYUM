@@ -3,6 +3,11 @@
 YUMYUM is a responsive and visually appealing food-themed web project designed to provide users with an engaging browsing experience.  
 Built with **HTML, CSS, SCSS, and JavaScript** (plus minor **PHP**), the project combines modern UI design with interactive front-end behavior.
 
+## 🔗 Links
+
+- **Repository:** https://github.com/Muhamed-Essam18/YUMYUM
+- **Live Demo / Production:** https://yumyum-sigma.vercel.app/
+
 ## 📸 Preview
 
 ### Home Page
